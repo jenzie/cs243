@@ -1,0 +1,9 @@
+.metadata/
+CVSROOT/
+atm/
+connect4/
+.settings/
+bin/
+CVS/
+.classpath
+.project

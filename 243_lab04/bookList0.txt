@@ -1,0 +1,6 @@
+Ulysses~James Joyce~895
+Ulysses~James Joyce~3195~leather
+Ulysses~James Joyce~2395~cloth
+Ulysses~James Joyce~0~http://www.amazon.com
+Designing Object-Oriented Software~Rebecca Wirfs-Brock, Brian Wilkerson, Lauren Wiener~0~http://booksRnotDead.com
+Sometimes a Great Notion~Ken Kesey~895~3
